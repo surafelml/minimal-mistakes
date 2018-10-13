@@ -19,13 +19,13 @@ locale                   : "en-US"
 title                    : "Surafel ML's"
 title_separator          : "|"
 name                     : "Surafel ML"
-description              : "A PhD Candidate."
+description              : "A PhD Candidate at the Uni. of Trento & FBK, Trento, Italy."
 url                      : https://surafelml.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : surafelml/surafelml.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+breadcrumbs              : true # true, false (default)
+words_per_minute         : true #200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Surafel ML"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "A Ph.D. Candidate at the Univ. of Trento & FBK, working on Multilingual Neural Machine Translation."
+  location         : "Trento, Italy"
+  email            : "lakew@fbk.eu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
