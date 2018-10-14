@@ -8,8 +8,8 @@ main:
 #     url: /publication/
 #- title: "Timeline"
 #     url: /timeline/
-- title: "About"
-     url: /_about/
+#- title: "About"
+#     url: /_about/
 - title: "@LAB"
      url: https://ict.fbk.eu/people/detail/surafelml/
  # - title: "Sample Posts"
