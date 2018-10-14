@@ -1,12 +1,18 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+ - title: "Blog"
+     url: https://surafelml.github.io/minimal-mistakes/blog/
+- title: "Publications"
+     url: https://mmistakes.github.io/minimal-mistakes/publication/
+- title: "Timeline"
+     url: https://mmistakes.github.io/minimal-mistakes/timeline/
+- title: "About"
+     url: https://mmistakes.github.io/minimal-mistakes/about/
+ # - title: "Sample Posts"
+ #    url: /year-archive/
+ # - title: "Sample Collections"
+ #    url: /collection-archive/
+ # - title: "Sitemap"
+ #   url: /sitemap/
