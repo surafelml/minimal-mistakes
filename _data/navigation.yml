@@ -2,16 +2,16 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-# - title: "Blog"
-#     url: /blog/
-#- title: "Publications"
-#     url: /publication/
-#- title: "Timeline"
-#     url: /timeline/
-#- title: "About"
-#     url: /_about/
-- title: "@LAB"
-     url: https://ict.fbk.eu/people/detail/surafelml/
+  # - title: "Blog"
+  #     url: /blog/
+  #- title: "Publications"
+  #     url: /publication/
+  #- title: "Timeline"
+  #     url: /timeline/
+  - title: "About"
+       url: /about/
+  - title: "@LAB"
+       url: https://ict.fbk.eu/people/detail/surafelml/
  # - title: "Sample Posts"
  #    url: /year-archive/
  # - title: "Sample Collections"
