@@ -306,7 +306,7 @@ defaults:
 
   # _posts
   - scope:
-      path: "_publication"
+      path: ""
       type: posts
     values:
       layout: single
