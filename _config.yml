@@ -275,21 +275,15 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
-  # _blog
-  - scope:
-      path: "_blog"
-      type: posts
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
   # _pages
   - scope:
       path: "_pages"
@@ -297,11 +291,25 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
-  # _portfolio
+  
+  # _blog
   - scope:
-      path: ""
-      type: portfolio
+      path: "_blog"
+      type: blog
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      sidebar:
+        nav: "docs"
+
+  # _publication
+  - scope:
+      path: "_publication"
+      type: publication
     values:
       layout: single
       author_profile: false
