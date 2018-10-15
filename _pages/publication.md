@@ -1,18 +1,9 @@
 ---
-title: "Publications"
+title: "Publications by Year"
 permalink: /publication/
 layout: posts
 author_profile: true
-toc: true
 ---
-
-## Sample 1
-
-
-## Sample 2
-
-
-## Sample 3
 
 ---
 
