@@ -309,8 +309,11 @@ defaults:
   # _publication
   - scope:
       path: "_publication"
-      type: publication
+      type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
+      read_time: true
+      comments: true
+      related: true
