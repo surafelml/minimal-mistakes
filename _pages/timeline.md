@@ -1,5 +1,5 @@
 ---
-permalink: /Time Line/
-title: "timeline"
+permalink: /timeline/
+title: "Time Line"
 toc: true
 ---
