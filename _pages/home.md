@@ -1,6 +1,20 @@
 ---
 layout: home
 permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+  actions:
+    - label: "<i class='fas fa-download'></i> Install Now"
+      url: "/docs/quick-start-guide/"
+  caption:
+excerpt: '
+I am a Ph.D. candidate at FBK-Fondazione Bruno Kessler (HLT-MT research group) and at the University of Trento (ICT-Doctoral School), Trento, Italy, working on the topic “Deep Learning for human-in-the-loop advanced Machine Translation”.
+
+After obtaining my bachelor’s degree I have worked as a graduate assistant, at Bahir Dar University, Ethiopia. Following, I have received my M.Sc. in computer science from the Ca’Foscari University of Venice under the supervision of Prof. Marcello Pelillo and Prof. Andrea Prati (please check out my thesis work here) and an MBA from Bologna Business School in Business Management/Green Management and Sustainable Businesses.
+
+My current research focuses on Multilingual Neural Machine Translation, particularly for low-resource languages. I am advised by Prof. Marcello Federico. Please check out some of the work from our lab below!
+'
 ---
 
 <p style="text-align: left;">I am a Ph.D. candidate at <a href="https://www.fbk.eu/en/">FBK-Fondazione Bruno Kessler</a> (<a href="https://ict.fbk.eu/units/hlt-mt/">HLT-MT</a> research group) and at the <a href="https://www.unitn.it/en">University of Trento</a> (<a href="http://ict.unitn.it/">ICT-Doctoral School</a>), Trento, Italy, working on the topic "Deep Learning for human-in-the-loop advanced Machine Translation".</p>
