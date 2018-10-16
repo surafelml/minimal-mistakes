@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_blog`.
+Please feel free to check out the following `_blog` collections.
