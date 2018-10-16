@@ -1,11 +1,6 @@
 ---
 layout: home
 permalink: /
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  caption:
-excerpt: "A PhD Candidate, at the University of Trento and FBK."
 ---
 
 <p style="text-align: left;">I am a Ph.D. candidate at <a href="https://www.fbk.eu/en/">FBK-Fondazione Bruno Kessler</a> (<a href="https://ict.fbk.eu/units/hlt-mt/">HLT-MT</a> research group) and at the <a href="https://www.unitn.it/en">University of Trento</a> (<a href="http://ict.unitn.it/">ICT-Doctoral School</a>), Trento, Italy, working on the topic "Deep Learning for human-in-the-loop advanced Machine Translation".</p>
