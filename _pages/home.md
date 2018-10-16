@@ -1,13 +1,6 @@
 ---
 layout: splash
 permalink: /
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install Now"
-      url: "/docs/quick-start-guide/"
-  caption:
 excerpt: '
 I am a Ph.D. candidate at FBK-Fondazione Bruno Kessler (HLT-MT research group) and at the University of Trento (ICT-Doctoral School), Trento, Italy, working on the topic “Deep Learning for human-in-the-loop advanced Machine Translation”.
 
