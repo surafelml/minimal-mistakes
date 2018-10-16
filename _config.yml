@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Surafel ML"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Ph.D. Candidate at the Univ. of Trento & FBK, working on Multilingual Neural Machine Translation."
   location         : "Trento, Italy"
   email            : "lakew@fbk.eu"
