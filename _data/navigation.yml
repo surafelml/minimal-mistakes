@@ -2,8 +2,6 @@
 main:
   - title: "Blog"
     url: /blog/
-#  - title: "Publications"
-#    url: /publication/
   - title: "CV/Bio"
     url: /about/
   - title: "FBK-Lab"
