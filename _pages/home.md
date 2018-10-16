@@ -4,7 +4,6 @@ permalink: /
 excerpt: 'I am a Ph.D. candidate at FBK-Fondazione Bruno Kessler (HLT-MT research group) and at the University of Trento (ICT-Doctoral School), Trento, Italy, working on the topic: Deep Learning for human-in-the-loop advanced Machine Translation.'
 --- 
 
-## Welcome
 
 <p style="text-align: left;">I am a Ph.D. candidate at <a href="https://www.fbk.eu/en/">FBK-Fondazione Bruno Kessler</a> (<a href="https://ict.fbk.eu/units/hlt-mt/">HLT-MT</a> research group) and at the <a href="https://www.unitn.it/en">University of Trento</a> (<a href="http://ict.unitn.it/">ICT-Doctoral School</a>), Trento, Italy, working on the topic "Deep Learning for human-in-the-loop advanced Machine Translation".</p>
 
