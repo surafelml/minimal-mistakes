@@ -21,6 +21,8 @@ My current research focuses on Multilingual Neural Machine Translation, particul
 
 ## Publications
 
+Check out [Google Scholars](https://scholar.google.it/citations?user=GEB4LhgAAAAJ&hl=en) page.
+
 
 ## Short Bio/CV
 
