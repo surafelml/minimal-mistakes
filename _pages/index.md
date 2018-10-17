@@ -4,7 +4,7 @@ classes: wide
 permalink: /
 intro:
  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @surafelml](https://twitter.com/surafelml){: .btn .btn--twitter}'
-author_profile: false
+author_profile: true
 --- 
 Hi there! I am a Ph.D. candidate at the <a href="http://ict.unitn.it/">ICT-Doctoral School</a> <a href="https://www.unitn.it/en">University of Trento</a> and at the <a href="https://www.fbk.eu/en/">Fondazione Bruno Kessler</a> <a href="https://ict.fbk.eu/units/hlt-mt/">HLT-MT</a> lab, in [Trento](https://goo.gl/maps/GS18r4G69J82), Italy.
 
