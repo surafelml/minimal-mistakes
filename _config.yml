@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Surafel ML's"
+title                    : "Surafel ML's [ሱራፌል መ. ላቀው]"
 title_separator          : "|"
-name                     : "Surafel ML"
-description              : "A PhD Candidate at the Uni. of Trento & FBK, Trento, Italy."
+name                     : "Surafel M. Lakew"
+description              : "PhD Candidate at the Universit of Trento & FBK, Trento, Italy."
 url                      : https://surafelml.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : surafelml/surafelml.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 170
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "surafelml"
 facebook:
   username               :
   app_id                 :
@@ -90,6 +90,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https//:twitter.com/surafelml"
 
 # Analytics
 analytics:
@@ -101,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Surafel ML"
+  name             : "Surafel M. Lakew"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A Ph.D. Candidate at the Univ. of Trento & FBK, working on Multilingual Neural Machine Translation."
+  bio              : "A Ph.D. Candidate, working on Multilingual Neural Machine Translation."
   location         : "Trento, Italy"
   email            : "lakew@fbk.eu"
   links:
@@ -131,21 +132,21 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/surafelml"
+      # url: "https://twitter.com/surafelml"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/surafelml"
+      # url: "https://github.com/surafelml"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://github.com/surafelml"
+      # url: "https://github.com/surafelml"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url:
 
 
@@ -153,6 +154,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _blog
+  - _publication
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
