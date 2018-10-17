@@ -4,7 +4,8 @@ permalink: /
 title: "Welcome"
 excerpt: 'I am a Ph.D. candidate at FBK-Fondazione Bruno Kessler (HLT-MT research group) and at the University of Trento (ICT-Doctoral School), Trento, Italy, working on the topic: Deep Learning for human-in-the-loop advanced Machine Translation.'
 intro:
- - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+ - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @surafelml](https://twitter.com/surafelml){: .btn .btn--twitter}'
+author_profile: false
 --- 
 I am a Ph.D. candidate at <a href="https://www.fbk.eu/en/">FBK-Fondazione Bruno Kessler</a> - <a href="https://ict.fbk.eu/units/hlt-mt/">HLT-MT</a> lab and at the <a href="https://www.unitn.it/en">University of Trento</a> (<a href="http://ict.unitn.it/">ICT-Doctoral School</a>), in [Trento](https://goo.gl/maps/GS18r4G69J82), Italy.
 
@@ -13,8 +14,6 @@ My research focuses on Multilingual Neural Machine Translation, particularly for
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
-
  
- ## News & Activities
+ ## News \& Activities
   * goes here
