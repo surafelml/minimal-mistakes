@@ -15,5 +15,3 @@ My research focuses on Multilingual Neural Machine Translation, particularly for
  
  ### News and Activities
   - Personal [page](https://surafelml.github.io) launched. Excited! for finally organzing what I am doing in this place.
-
-{% include feature_row %}
