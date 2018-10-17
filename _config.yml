@@ -132,13 +132,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/surafelml"
+      url: "https://twitter.com/surafelml"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/surafelml"
+      url: "https://github.com/surafelml"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url: "https://github.com/surafelml"
