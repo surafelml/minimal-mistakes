@@ -2,7 +2,7 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "CV/Bio"
+  - title: "Bio/CV"
     url: /about/
   - title: "FBK-Lab"
     url: https://ict.fbk.eu/people/detail/surafelml/
