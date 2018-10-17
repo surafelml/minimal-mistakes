@@ -1,20 +1,20 @@
 ---
-layout: home
+layout: posts
 permalink: /
 title: "Welcome"
 excerpt: 'I am a Ph.D. candidate at FBK-Fondazione Bruno Kessler (HLT-MT research group) and at the University of Trento (ICT-Doctoral School), Trento, Italy, working on the topic: Deep Learning for human-in-the-loop advanced Machine Translation.'
-feature_row:
+intro:
  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
 --- 
 I am a Ph.D. candidate at <a href="https://www.fbk.eu/en/">FBK-Fondazione Bruno Kessler</a> - <a href="https://ict.fbk.eu/units/hlt-mt/">HLT-MT</a> lab and at the <a href="https://www.unitn.it/en">University of Trento</a> (<a href="http://ict.unitn.it/">ICT-Doctoral School</a>), in [Trento](https://goo.gl/maps/GS18r4G69J82), Italy.
 
- 
- My research focuses on Multilingual Neural Machine Translation, particularly for low-resource languages. I am advised by Prof. <a href="https://sites.google.com/site/marcellofedericohome/">Marcello Federico</a>. Please feel free to check read more on [Bio/CV/Publications/Activities](https://surafelml.github.io/about/), or some of my posts in the [Blog](https://surafelml.github.io/blog/) section!
+My research focuses on Multilingual Neural Machine Translation, particularly for low-resource languages. I am advised by Prof. <a href="https://sites.google.com/site/marcellofedericohome/">Marcello Federico</a>. Please feel free to check read more on [Bio/CV/Publications/Activities](https://surafelml.github.io/about/), or some of my posts in the [Blog](https://surafelml.github.io/blog/) section!
 
- 
- News & Activities
-  * goes here
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+ 
+ ## News & Activities
+  * goes here
