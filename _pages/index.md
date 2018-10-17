@@ -1,5 +1,8 @@
 ---
 layout: home
+classes: 
+ - landing
+ - dark-theme
 permalink: /
 intro:
  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @surafelml](https://twitter.com/surafelml){: .btn .btn--twitter}'
