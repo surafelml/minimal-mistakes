@@ -1,10 +1,36 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)"
+title: "Publications"
 permalink: /publications/
+layout: posts
+classes: wide
 author_profile: true
 ---
 
-## Deep Learning
+## 2018
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu. <i>In submission to ICLR 2019.</i>
+<b>[Sample paper1](http://surafelml.github.io/publications/sample1.md)</b> <br>
+<b>Surafel M. L</b>, et al.,. <i>In submission to WMT 2018.</i>
+
+<b>[Sample paper1](http://surafelml.github.io/publications/sample1.md)</b> <br>
+<b>Surafel M. L</b>, et al.,. <i>In submission to WMT 2018.</i>
+
+### 2017
+
+<b>[Sample paper1](http://surafelml.github.io/publications/sample1.md)</b> <br>
+<b>Surafel M. L</b>, et al.,. <i>In submission to WMT 2018.</i>
+
+<b>[Sample paper1](http://surafelml.github.io/publications/sample1.md)</b> <br>
+<b>Surafel M. L</b>, et al.,. <i>In submission to WMT 2018.</i>
+
+
+#### 2016
+
+<b>[Sample paper1](http://surafelml.github.io/publications/sample1.md)</b> <br>
+<b>Surafel M. L</b>, et al.,. <i>In submission to WMT 2018.</i>
+
+<b>[Sample paper1](http://surafelml.github.io/publications/sample1.md)</b> <br>
+<b>Surafel M. L</b>, et al.,. <i>In submission to WMT 2018.</i>
+
+---
+Check out [Google Scholars](https://scholar.google.it/citations?user=GEB4LhgAAAAJ&hl=en) page.
+
