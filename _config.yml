@@ -321,7 +321,7 @@ defaults:
 
   # _publication
   - scope:
-      path: "_publication"
+      path: ""
       type: publication
     values:
       layout: single
