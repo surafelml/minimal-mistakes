@@ -318,15 +318,3 @@ defaults:
       read_time: true
       comments: false
       related: false
-
-  # _publication
-  - scope:
-      path: ""
-      type: publication
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      read_time: true
-      comments: false
-      related: false
