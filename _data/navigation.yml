@@ -4,6 +4,8 @@ main:
     url: /blog/
   - title: "Posts"
     url: /posts/
+  - title: "Publications"
+    url: /publications/
   - title: "About"
     url: /about/
   - title: "FBK-MT"
