@@ -2,10 +2,8 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "Posts"
-    url: /posts/
   - title: "Publications"
-    url: /publications/
+    url: /posts/
   - title: "About"
     url: /about/
   - title: "FBK-MT"
