@@ -1,6 +1,6 @@
 ---
 title: "Posts by Year"
 permalink: /papers/
-layout: posts
+layout: papers
 author_profile: true
 ---
