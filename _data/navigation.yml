@@ -8,3 +8,7 @@ main:
     url: /about/
   - title: "FBK-Lab"
     url: https://ict.fbk.eu/people/detail/surafelml/
+  - title: "PostsYear"
+    url: /posts/
+  - title: "PostsYearPages"
+    url: /pages/posts/
