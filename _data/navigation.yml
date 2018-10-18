@@ -2,13 +2,9 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "Publications"
-    url: /publications/
+  - title: "Posts"
+    url: /posts/
   - title: "About"
     url: /about/
   - title: "FBK-MT"
     url: https://ict.fbk.eu/units/hlt-mt/
-  - title: "Publications2"
-    url: /posts/
-  - title: "Papers"
-    url: /papers-list/
