@@ -319,10 +319,22 @@ defaults:
       comments: false
       related: false
   
-   # _publications
+  # _publications
   - scope:
       path: "_publications"
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      read_time: true
+      comments: false
+      related: false
+     
+  # _papers
+  - scope:
+      path: "_papers"
+      type: papers
     values:
       layout: single
       author_profile: true
