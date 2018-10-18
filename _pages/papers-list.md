@@ -1,6 +1,6 @@
 ---
 title: "Posts by Year"
-permalink: /papers/
+permalink: /papers-list/
 layout: papers
 author_profile: true
 ---
