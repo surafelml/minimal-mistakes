@@ -3,12 +3,8 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Publications"
-    url: /publication/
+    url: /publications/
   - title: "About"
     url: /about/
-  - title: "FBK-Lab"
-    url: https://ict.fbk.eu/people/detail/surafelml/
-  - title: "PostsYear"
-    url: /posts/
-  - title: "PublicationsV2"
-    url: /publications/
+  - title: "FBK-MT"
+    url: https://ict.fbk.eu/units/hlt-mt/
