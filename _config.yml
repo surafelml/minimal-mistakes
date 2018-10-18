@@ -320,7 +320,7 @@ defaults:
   # _publication
   - scope:
       path: "_publication"
-      type: posts
+      type: publication
     values:
       layout: single
       author_profile: true
