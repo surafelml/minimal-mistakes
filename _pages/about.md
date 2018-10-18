@@ -1,14 +1,25 @@
 ---
 permalink: /about/
 title: "Welcome"
-excerpt: "Hi, this is a short description of what I am currently working on."
 last_modified_at: 2018-10-17T12:04:24-04:00
-toc: true
+r_interest:
+ - title: "M-NMT"
+   btn-class: "btn-primary"
+   btn-label: "M-NMT"
+ - title: "LRL"
+   btn-class: "btn-primary"
+   btn-label: "LRL"
 ---
- 
+
+### Research Interst
+{% include r_interest %}
+
+<a href="#" class="btn btn--primary">Link Text</a>
+[<i class="btn btn--primary"></i>M-NMT](https://twitter.com/mmistakes){: .btn .btn--primary}
+
 ### Research Interest
  - Multilingual NMT, Low-Resource Languages Translation
- - Multimodal NMT
+ - Multimodal NMM
 
 ### Activities
  - Reviewing: WMT18, IWSLT18.
