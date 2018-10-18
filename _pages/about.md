@@ -2,6 +2,7 @@
 permalink: /about/
 title: "Welcome"
 last_modified_at: 2018-10-17T12:04:24-04:00
+classes: wide
 ---
 
 ### Research Interst
