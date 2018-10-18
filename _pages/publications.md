@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: posts
+layout: publications
 classes: wide
 author_profile: true
 ---
