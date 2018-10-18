@@ -316,3 +316,15 @@ defaults:
       read_time: true
       comments: false
       related: false
+
+  # _publication
+  - scope:
+      path: "_publication"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+      comments: false
+      related: false
