@@ -10,3 +10,5 @@ main:
     url: https://ict.fbk.eu/units/hlt-mt/
   - title: "Publications2"
     url: /posts/
+  - title: "Papers"
+    url: /papers/
