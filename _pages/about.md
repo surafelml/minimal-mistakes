@@ -14,8 +14,7 @@ r_interest:
 ### Research Interst
 {% include r_interest %}
 
-<a href="#" class="btn btn--primary">Link Text</a>
-[<i class="btn btn--primary"></i>M-NMT](https://twitter.com/mmistakes){: .btn .btn--primary}
+Text{: .btn .btn--primary }
 
 ### Research Interest
  - Multilingual NMT, Low-Resource Languages Translation
