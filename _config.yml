@@ -315,8 +315,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      read_time: true
+      read_time: false
       comments: false
       related: false
-      classes: wide
      
