@@ -297,7 +297,7 @@ defaults:
   
   # _blog
   - scope:
-      path: "_blog"
+      path: ""
       type: blog
     values:
       layout: single
@@ -321,7 +321,7 @@ defaults:
   
    # _publications
   - scope:
-      path: ""
+      path: "_publications"
       type: publications
     values:
       layout: single
