@@ -2,20 +2,9 @@
 permalink: /about/
 title: "Welcome"
 last_modified_at: 2018-10-17T12:04:24-04:00
-r_interest:
- - title: "M-NMT"
-   btn-class: "btn-primary"
-   btn-label: "M-NMT"
- - title: "LRL"
-   btn-class: "btn-primary"
-   btn-label: "LRL"
 ---
 
 ### Research Interst
-{% include r_interest type="center" %}
-
-{% include r_interest %}
-
 
 Text{: .btn .btn--primary }
 
