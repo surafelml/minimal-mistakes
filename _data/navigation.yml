@@ -10,5 +10,5 @@ main:
     url: https://ict.fbk.eu/people/detail/surafelml/
   - title: "PostsYear"
     url: /posts/
-  - title: "PostsYearPages"
-    url: /pages/posts/
+  - title: "PublicationsV2"
+    url: /publications/
