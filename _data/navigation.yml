@@ -8,3 +8,5 @@ main:
     url: /about/
   - title: "FBK-MT"
     url: https://ict.fbk.eu/units/hlt-mt/
+  - title: "Publications2"
+    url: /posts/
