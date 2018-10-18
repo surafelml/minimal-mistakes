@@ -12,7 +12,10 @@ r_interest:
 ---
 
 ### Research Interst
+{% include r_interest type="center" %}
+
 {% include r_interest %}
+
 
 Text{: .btn .btn--primary }
 
