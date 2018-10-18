@@ -3,6 +3,8 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Publications"
+    url: /posts/
+  - title: "PublicationsV2"
     url: /publications/
   - title: "About"
     url: /about/
