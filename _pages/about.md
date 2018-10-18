@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Welcome"
+title: "About"
 last_modified_at: 2018-10-17T12:04:24-04:00
 classes: wide
 ---
@@ -9,7 +9,8 @@ classes: wide
  - Multilingual NMT, Low-Resource Languages Translation
  - Multimodal NMM
 
-[Default Button](https://surafelml.github.io/about/){: .btn .btn--primary }
+Default Button{: .btn .btn--primary}
+Default Button2{: .btn .btn--primary .btn--small}
 
 
 ### Activities
