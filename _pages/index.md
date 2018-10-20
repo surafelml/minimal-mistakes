@@ -10,3 +10,10 @@ My research focuses on Multilingual Neural Machine Translation, particularly for
  
 ### News & Activities
   - Personal [page](https://surafelml.github.io) launched. Excited! for finally organzing what I am doing in this place.
+  
+  
+**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
+{: .notice}
+
+**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+{: .notice--info}
