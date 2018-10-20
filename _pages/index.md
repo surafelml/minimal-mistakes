@@ -9,11 +9,6 @@ Hi there! I am a Ph.D. candidate at the <a href="http://ict.unitn.it/">ICT-Docto
 My research focuses on Multilingual Neural Machine Translation, particularly for low-resource languages, under the supvervision of <a href="https://sites.google.com/site/marcellofedericohome/">Marcello Federico</a>. Feel free to check some of my [blog](https://surafelml.github.io/blog/) posts.
  
 ### News & Activities
-  - Personal [page](https://surafelml.github.io) launched. Excited! for finally organzing what I am doing in this place.
-  
-  
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
-{: .notice}
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--info}
+ **Launched [this](https://surafelml.github.io) page**. I'm excited! about organzing & starting to blog about my work.
+{: .notice}
