@@ -108,6 +108,9 @@ author:
   location         : "Trento, Italy"
   email            : "lakew@fbk.eu"
   links:
+    - label: "MT@FBK"
+      icon: "fas fa-fw fa-link"
+      url: "https://ict.fbk.eu/units/hlt-mt/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       #url: mailto:lakew@fbk.eu
