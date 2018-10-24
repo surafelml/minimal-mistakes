@@ -9,8 +9,10 @@ classes: wide
  - Multilingual NMT, Low-Resource Languages Translation
  - Multimodal NMM
 
-Default Button{: .btn .btn--primary}
-Default Button2{: .btn .btn--primary .btn--small}
+Default Button 
+{: .btn .btn--primary}
+Default Button2
+{: .btn .btn--primary .btn--small}
 
 
 ### Activities
