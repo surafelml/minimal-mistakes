@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2018-10-24T16:20:02-05:00
 title: "Phrase-Based & Neural Unsupervised Machine Translation"
 classes: wide
 excerpt: "Work investigates how to learn to translate when having access to only monolingual corpora in each language."
@@ -7,6 +8,12 @@ tags:
   - Unsupervised
   - Zero-Shot
   - Low-Resource
+toc: true
+toc_sticky: true
+header:
+  image: /assets/images/unsupervised-nmt-illustration.PNG
+  caption: "Paper: [**Unsupervised NMT**](https://arxiv.org/abs/1804.07755)"
+  teaser: /assets/images/unsupervised-nmt-comparision_wmt14_EnFr.PNG
 ---
 
 ### Authors
@@ -45,13 +52,14 @@ Both the Phrase-based and Neural rely on three core (#P1, #P2, and #P3) <b>princ
 
 ## Algorithms
 ### Neural
-  - 
-<img src="/assets/images/algorithm_nmt.PNG" width="400">{: .align-center}
+
+<img src="/assets/images/algorithm_nmt.PNG" width="350">{: .align-center}
 
 
 ### Phrase-Based
-  - 
-<img src="/assets/images/algorithm_pbsmt.PNG" width="400">{: .align-center}
+
+<img src="/assets/images/algorithm_pbsmt.PNG" width="350">{: .align-center}
+
 
 ## Results
 Experimental settings
@@ -62,15 +70,12 @@ WMT14 En<>De
 
 WMT16 En<>Fr
   - ...
-<img src="/assets/images/comparison_results.PNG" width="400">{: .align-center}
+<img src="/assets/images/comparison_results.PNG" width="350">{: .align-center}
 
 
 ## More on Unsupervised MT
-  - Please check out the following interesting works. 
-  - Ravi and Knight (2011)
-  - He et al., (2016)
-  - Artetxe et al., (2018) 
-  - Lample et al., (2018) 
-
-## References
-
+If you are interested and want to explore more about unsupervised MT approaches, check out the following works: 
+  - Ravi and Knight (2011), [Deciphering Foreign Language](https://www.aclweb.org/anthology/P11-1002). 
+  - He et al., (2016), [Dual Learning for Machine Translation](https://arxiv.org/abs/1611.00179)
+  - Artetxe et al., (2018), [Unsupervised  Neural  Machine  Translation](https://arxiv.org/abs/1710.11041). 
+  - Lample et al., (2018), [Unsupervised Machine Translation Using Monolingual Corpora Only](https://arxiv.org/abs/1711.00043).
