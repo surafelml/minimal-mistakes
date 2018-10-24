@@ -17,6 +17,8 @@ header:
 ### Authors
 Guillaume Lample, Myle Ott, Alexis Conneau, Ludovic Denoye, Marc’Aurelio Ranzato
 
+[[Paper]](https://arxiv.org/abs/1804.07755)
+
 
 ## Overview
 Data scarcity is among the main [challenges](https://arxiv.org/abs/1706.03872) for training a usable Neural Machine Translation(NMT) model. Despite the progress made for a high-resource language (such as; English-German) pair, most languages are characterized by the absence of parallel data to train an NMT system. As my first series of paper review and writing a post I will summarize the "Phrase-Based & Neural Unsupervised Machine Translation", to be presented at EMNLP18. Authors suggest two model variants; i) Phrase-based and ii) Neural. 
@@ -27,7 +29,8 @@ Both the Phrase-based and Neural rely on three core (#P1, #P2, and #P3) <b>princ
 
 ![image-center](/assets/images/unsupervised-nmt-illustration.PNG){: .align-center}
 
-The illustration aims to visualize the idea behind the three principles: 
+The illustration aims to visualize the idea behind the three principles:
+
   -- A) shows two monolingual datasets distribution (see the legend).
   
   -- B) Initialization: the two distributions are roughly aligned, with mechanism like word-by-word translation.
@@ -40,7 +43,7 @@ The illustration aims to visualize the idea behind the three principles:
 ## P1: Model Initialization
   - The aim is to learn first level (such as; word-by-word) translations
   
-  - In the Neural case, i) jointly learn BPE model, ii) apply BPE, and iii) learning token embeedings to initialize the encoder-decoder lookup table, whereas for the Phrase-Based the initial phrase-tables are populated using a bilingual dictionary build from monolingual data (Conneau et al., 2018)
+  - In the Neural case, i) jointly learn BPE model, ii) apply BPE, and iii) learning token embeedings to initialize the encoder-decoder lookup table, whereas for the Phrase-Based the initial phrase-tables are populated using a [bilingual dictionary](https://arxiv.org/abs/1710.04087) build from monolingual data.
   
   - Note: if the languages are distant learning, learning bilingual dictionary might be required in the Neural scenario. 
  
@@ -56,7 +59,7 @@ The illustration aims to visualize the idea behind the three principles:
 
 
 ## Algorithms
-Integrating the above three principles, the Neural and Phrase-Based algorithms are given, where <i>S</t></i> and <i>T</i> representes source and target examples, language models trained using source and target monolingual data as <i>P<sub>s-t</sub></i> and <i>P<sub>t->s</sub></i>.  
+Integrating the above three principles, the Neural and Phrase-Based algorithms are given, where <i>S</i> and <i>T</i> representes source and target examples, and language models trained using source and target monolingual data are represented as <i>P<sub>s-t</sub></i> and <i>P<sub>t->s</sub></i>.  
 ### Neural
 <img src="/assets/images/algorithm_nmt.PNG" width="350">{: .align-center}
 
@@ -66,12 +69,12 @@ Integrating the above three principles, the Neural and Phrase-Based algorithms a
 
 
 ## Results
-Experimental settings are done on the well know WMT14 En<>De and WMT16 En<>Fr datasets.  The combination of the PBSMT and NMT showed to give the best results (see the last row).
+Experimental are done using the well know WMT16 En<>De and WMT14 En<>Fr benchmarks. The combination of the PBSMT and NMT showed to give the best results (see the last row).
 
 <img src="/assets/images/comparison_results.PNG" width="350">{: .align-center}
 
 
-## Thoughts
+## My Thoughts
 - First of all, unsupervised MT task is a necessary and promising research direction if one truly want to use MT to tackle communication barriers. Imagine there exists more than [7000 languages](https://www.ethnologue.com/about), and most don't have parallel data at all. 
 - Turning unsupervised MT task to the supervised version seems the best strategy to incrementally improve through the iterative learning procedure.
 - Would be great to see the approach in a distant source-target language pair and for languages with less comparable monolingual corpora.
