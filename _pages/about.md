@@ -6,12 +6,18 @@ classes: wide
 ---
 
 ### Research Interest
- - Multilingual NMT, Low-Resource Languages Translation
- - Multimodal NMM
+ - Multilingual NMT
+ - Low-Resource NMT
+ - Multimodal NMT
 
-Default Button 
-{: .btn .btn--primary}
-Default Button2
+
+Multilingual NMT
+{: .btn .btn--primary .btn--small}
+
+Low-Resource NMT
+{: .btn .btn--primary .btn--small}
+
+Multimodal NMT
 {: .btn .btn--primary .btn--small}
 
 
