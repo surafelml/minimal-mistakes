@@ -6,11 +6,6 @@ classes: wide
 ---
 
 ### Research Interest
- - Multilingual NMT
- - Low-Resource NMT
- - Multimodal NMT
-
-
 Multilingual NMT
 {: .btn .btn--primary .btn--small}
 
